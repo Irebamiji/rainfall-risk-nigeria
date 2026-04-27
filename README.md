@@ -6,6 +6,7 @@
 This project analyzes rainfall patterns across all 36 states in Nigeria to identify flood-prone regions and seasonal risk trends.
 
 ## Objectives
+The main objectives of this project is to:
 
 * Analyze rainfall distribution across states
 * Identify peak rainfall months
@@ -35,8 +36,6 @@ This project was extended to include:
 * Geospatial visualization of rainfall patterns across Nigeria
 * A machine learning model (Random Forest) to predict flood risk
 * Feature-based analysis using rainfall, humidity, and temperature
-
-These additions demonstrate the ability to move from descriptive analysis to predictive insights.
 
 
 ## Tools Used
